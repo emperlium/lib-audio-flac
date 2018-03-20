@@ -1,4 +1,4 @@
-# lib-audio-mad
+# lib-audio-flac
 
 Interface to the libflac (Free Lossless Audio Codec decoding) library.
 
