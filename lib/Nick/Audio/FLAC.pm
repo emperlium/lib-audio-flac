@@ -5,8 +5,6 @@ use warnings;
 use XSLoader;
 use Carp;
 
-# sudo apt install libflac-dev
-
 our $VERSION;
 
 BEGIN {
